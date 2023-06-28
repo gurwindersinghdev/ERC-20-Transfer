@@ -1,0 +1,15 @@
+export const TRANSFER_CONTRACT_ADDRESS =
+  "0x71A2eda8C234844C11Fb2D0Ef50e6BFf777B7067";
+export const CLAIM_TOKEN_CONTRACT_ADDRESS =
+  "0xd98d630267DF13Bd6dc984eDB2efB1d19B90174F";
+
+export const TRANSACTIONS =
+  "ipfs://QmWvAB7HgYovQCp8GgDLfi6p1UCfFtEwNM1MYDNkpoJQUe/44.png";
+
+export const HERO_IMAGE_URL =
+  "ipfs://QmbhHfYmqUCsrTq8bQhaK5w6JhJZc2p47eVNGRRNkTuKLK/2.png";
+export const CLAIM_TOKEN_IMAGE =
+  "ipfs://QmW3wCQYdtv6wiejEM5cvM8Qn3yqCZoPhTBs3SoiwJLW8c/33.png";
+//export const FEATURES_IMAGE_URL = "";
+//export const CLAIM_TOKEN_CONTRACT_ADDRESS =
+//("0xA29964f61DBAD81e549d7e0AD004adb6AB63795E");
