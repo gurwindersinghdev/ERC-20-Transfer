@@ -5,14 +5,14 @@ const Example: React.FC = () => {
 
   return (
     <header>
-      {colorMode !== "light" && (
+      {colorMode !== "dark" && (
         <Button
           onClick={toggleColorMode}
           colorScheme="teal"
           variant="solid"
           size="md"
         >
-          Toggle {colorMode === "light" ? "Dark" : "Light"}
+          Toggle Dark
         </Button>
       )}
     </header>
